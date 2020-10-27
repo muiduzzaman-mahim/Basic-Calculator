@@ -7,6 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_Oreo_8.1" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -30,7 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../SSD_OTHERS/Android-practice/QuizApp" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -104,5 +105,19 @@
       <updated>1603798026392</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1833" y="145" key="FileChooserDialogImpl" timestamp="1603798367383">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1833" y="145" key="FileChooserDialogImpl/0.22.1366.746/1366.0.1366.768@1366.0.1366.768" timestamp="1603798367383" />
+    <state x="1843" y="300" key="Github.CreateGistDialog" timestamp="1603798210761">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1843" y="300" key="Github.CreateGistDialog/0.22.1366.746/1366.0.1366.768@1366.0.1366.768" timestamp="1603798210761" />
+    <state x="1713" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1603798352525">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1713" y="217" key="com.intellij.ide.util.TipDialog/0.22.1366.746/1366.0.1366.768@1366.0.1366.768" timestamp="1603798352525" />
   </component>
 </project>
